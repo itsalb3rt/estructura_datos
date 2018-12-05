@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536063267 source:e:\universidad y proyectos\estructura de datos\tareas\array_numeros\array_numeros\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<string>
+	<algorithm>
+	"include/esconu.h"
+
+1443547514 e:\universidad y proyectos\estructura de datos\tareas\array_numeros\array_numeros\include\esconu.h
+	"esconu.cpp"
+
+1428030496 e:\universidad y proyectos\estructura de datos\tareas\array_numeros\array_numeros\include\esconu.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

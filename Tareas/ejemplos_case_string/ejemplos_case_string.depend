@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537118068 source:e:\universidad y proyectos\estructura de datos\tareas\ejemplos_case_string\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

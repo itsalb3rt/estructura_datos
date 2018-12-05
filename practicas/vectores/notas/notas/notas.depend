@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537451524 source:e:\universidad y proyectos\estructura de datos\practicas\vectores\notas\notas\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

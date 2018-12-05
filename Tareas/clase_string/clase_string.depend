@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1537911529 source:e:\universidad y proyectos\estructura de datos\tareas\clase_string\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538531628 source:e:\universidad y proyectos\estructura de datos\tareas\registro_estudiantes_2\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<regex>
+

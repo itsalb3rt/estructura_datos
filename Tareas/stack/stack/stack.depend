@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538666608 source:e:\universidad y proyectos\estructura de datos\tareas\stack\stack\main.cpp
+	<iostream>
+	<stack>
+

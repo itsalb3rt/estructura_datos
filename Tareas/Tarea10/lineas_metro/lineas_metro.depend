@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543678974 source:c:\users\destroid\desktop\documentos\universidad y proyectos\estructura de datos\tareas\lineas_metro\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+

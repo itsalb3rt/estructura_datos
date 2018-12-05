@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1536085817 source:e:\universidad y proyectos\estructura de datos\tareas\leer_cadena\leer_cadena\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
+1443547514 e:\universidad y proyectos\estructura de datos\tareas\leer_cadena\leer_cadena\include\esconu.h
+	"esconu.cpp"
+
+1428030496 e:\universidad y proyectos\estructura de datos\tareas\leer_cadena\leer_cadena\include\esconu.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1535749144 e:\universidad y proyectos\estructura de datos\tareas\leer_cadena\leer_cadena\include\cadena.cpp
+	"Cadena.h"
+
+1535748895 e:\universidad y proyectos\estructura de datos\tareas\leer_cadena\leer_cadena\include\cadena.h
+

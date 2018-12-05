@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538656508 source:e:\universidad y proyectos\estructura de datos\tareas\queue\queue\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538695476 source:e:\universidad y proyectos\estructura de datos\tareas\queue\priority_queue\main.cpp
+	<iostream>
+	<queue>
+

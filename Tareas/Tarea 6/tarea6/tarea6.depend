@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538958003 source:e:\universidad y proyectos\estructura de datos\tareas\tarea6\tarea6\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<list>
+	<deque>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539729595 source:e:\universidad y proyectos\estructura de datos\practicas\set\practica_set\main.cpp
+	<iostream>
+	<set>
+	<algorithm>
+
